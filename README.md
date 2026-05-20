@@ -321,13 +321,6 @@ Repository includes:
 
 The repository is structured so it can be released under an OSI-approved license.
 
----
-
-## License
-
-MIT License
-
-See LICENSE file.
 
 ---
 
